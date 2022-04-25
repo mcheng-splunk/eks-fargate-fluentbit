@@ -11,12 +11,12 @@ Both methods have been documented
 
 ### Method 1 ###
 
-[Fluent Bit for Amazon EKS](https://aws.amazon.com/blogs/containers/how-to-capture-application-logs-when-using-amazon-eks-on-aws-fargate/)
+[Fluent Bit for Amazon EKS](https://aws.amazon.com/blogs/containers/fluent-bit-for-amazon-eks-on-aws-fargate-is-here/)
 
 
 ### Method 2 ###
 
-[Capture application logs when using Amazon EKS ](https://aws.amazon.com/blogs/containers/fluent-bit-for-amazon-eks-on-aws-fargate-is-here/)
+[Capture application logs when using Amazon EKS ](https://aws.amazon.com/blogs/containers/how-to-capture-application-logs-when-using-amazon-eks-on-aws-fargate/)
 
 
 
