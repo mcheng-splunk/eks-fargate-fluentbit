@@ -3,7 +3,7 @@
 # Overview #
 
 
-There are 2 methods to export the EKS Fargate clouds into Cloudwatch. 
+There are 2 methods to export the EKS Fargate logs into Cloudwatch. 
 
 ![EKS Fargate logs architecture](./images/o11y-eks-fargate-architecture.png)
 
